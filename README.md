@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version 2.7
 
-* System dependencies
+* Rails version 6
 
 * Configuration
 
